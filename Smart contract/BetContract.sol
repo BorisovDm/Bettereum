@@ -23,6 +23,7 @@ contract Ownable {
 contract Bets is Ownable {
 
     uint currentId = 0;
+    uint constant commission = 10;
 
     struct Bet {
         uint id;
