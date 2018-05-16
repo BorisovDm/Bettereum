@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">azadMobile</string>
+    <string name="text_login">login</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="balance">Balance :</string>
+    <string name="place_your_bets">Place your bets!</string>
+    <string name="challenge">Challenge</string>
+    <string name="your_bet">Your Bet</string>
+    <string name="choose_winner">Winner</string>
+    <string name="text_place">Place!</string>
+</resources>
